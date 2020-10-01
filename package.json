@@ -9,6 +9,7 @@
     "start-server": "./build/start-server.sh"
   },
   "dependencies": {
+    "leveldown": "^5.6.0",
     "pouchdb": "^6.0.7",
     "rxjs": "^5.0.0-rc.2",
     "vue": "^2.0.1",
